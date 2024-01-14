@@ -60,7 +60,7 @@ import (
 
 const (
 	AccountAddressPrefix = "cosmos"
-	Name                 = "stablecoinproject"
+	Name                 = "stablecoinproject_test"
 )
 
 var (
